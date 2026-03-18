@@ -1,6 +1,8 @@
-# docker-debian-bird2
+# docker-debian-bird3
 
-BIRD2 Docker image based on Debian.
+BIRD3 Docker image based on Debian.
+
+https://bird.nic.cz
 
 ## License
 
